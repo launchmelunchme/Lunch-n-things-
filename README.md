@@ -7,3 +7,6 @@ This experience solidified my belief that open collaboration is the key to build
 When I'm not immersed in my studies or contributing to an open-source project, I enjoy exploring Hong Kong's hiking trails, practicing calligraphy to stay connected to my cultural roots, and experimenting with fusion cuisine that reflects my multicultural experiences.
 
 My long-term vision is to create inclusive technology that empowers communities. I plan to continue this work after graduation, whether through a PhD or by joining a leading tech firm. I'm especially keen on developing ethical AI solutions on open, cloud-native platforms, as I believe this is the most effective way to foster a transparent and equitable technological future. My blend of technical expertise, adaptability, and unwavering curiosity makes me a rising star in this global landscape.
+
+- [GitHub @yi-nuo426](https://github.com/yi-nuo426)
+- [X @yinuocoolio](https://x.com/yinuocoolio)
